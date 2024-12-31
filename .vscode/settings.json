@@ -1,0 +1,10 @@
+{
+  "liveServer.settings.port": 5501,
+
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "workbench.startupEditor": "none"
+}
